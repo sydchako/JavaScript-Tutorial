@@ -47,4 +47,4 @@ In-browser JavaScript has the following restrictions:
 * JavaScript from one page is restricted access to another page if the pages come from different sites (Same Origin Policy).
 
 ## Contents
-1. [Language Structure](My%20Notes/LanguageStructure.md)
+1. [Getting Started With JavaScript](https://sytech.co.zw/javascript-tutorial/getting-started-with-javascript/)
