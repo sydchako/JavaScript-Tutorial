@@ -48,3 +48,5 @@ In-browser JavaScript has the following restrictions:
 
 ## Contents
 1. [Getting Started With JavaScript](https://sytech.co.zw/javascript-tutorial/getting-started-with-javascript/)
+2. [JavaScript Code Structure](https://sytech.co.zw/javascript-tutorial/javascript-code-structure/)
+3. [JavaScript Variables](https://sytech.co.zw/javascript-tutorial/variables-in-javascript/)
