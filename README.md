@@ -45,6 +45,3 @@ In-browser JavaScript has the following restrictions:
 * JavaScript on a webpage cannot read or write or copy or execute files on the hard disk drive because it has no direct access to the Operating System low-level system functions.
 * In modern browsers, it has limited access to files on hard disk through user actions, such "dropping" a file into a browser window or selecting a file via an `<input>` tag.
 * JavaScript from one page is restricted access to another page if the pages come from different sites (Same Origin Policy).
-
-## Contents
-[JavaScript Language Structure](My Notes/Language Structure.md)
